@@ -21,6 +21,23 @@
     ```
     ./build/tools/caffe train --solver=solver.prototxt
     ```
+    
+
+### 生成`prototxt`
+
+* pycaffe
+
+
+### 可视化工具
+
+* draw_net.py
+
+* [netscope](http://ethereon.github.io/netscope/quickstart.html)
+
+
+### 模型
+
+* [soeaver/caffe-model](https://github.com/soeaver/caffe-model)
 
 
 ### Reference
